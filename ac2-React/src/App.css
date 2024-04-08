@@ -184,3 +184,70 @@ main div {
 #card1Title {
   margin-top: 20px;
 }
+
+#contactForm {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 20px;
+  background: #101120;
+  z-index: 2;
+  margin-top: 100px;
+  display: flex;
+  flex-direction: column;
+  border-top: solid #ffffff;
+  margin-bottom: 50px;
+}
+
+#contactForm div {
+  margin-bottom: 10px;
+}
+
+#contactForm label {
+  display: block;
+  margin-bottom: 10px;
+  margin-top: 50px;
+}
+
+#contactForm input[type="text"],
+#contactForm input[type="email"],
+#contactForm textarea {
+  width: 100%;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+}
+
+#contactForm button {
+  margin-top: 50px;
+  padding: 20px 20px;
+  margin-left: 350px;
+  background: #101120;
+  max-width: 200px;
+  color: #fff;
+  border: solid 1px #fff;
+  cursor: pointer;
+}
+
+#contactForm button:hover {
+  background: #ffffff;
+  color: #000;
+}
+
+#footer {
+  text-align: left;
+  padding: 20px;
+  background-color: #090a14;
+  color: white;
+  bottom: 0;
+  width: 100%;
+  border-style: solid none none none;
+  border-width: 1px;
+}
+
+#footer p {
+  margin: 0;
+}
+
+#nome2 {
+  margin-left: 350px;
+}
