@@ -49,7 +49,7 @@ function Cards(){
                     <h1 id="card1Title">Habilidades</h1>
                     <div id="card1Content">
                         <div id="randDiv">
-                            <p id="texto">Sou designer e programador especializado em front end, sou também desenhista e também tenho estudos sobre marketing digital.</p>
+                            <p id="texto">Sou designer e programador especializado em front end,ja fiz cursos de desenhos e também tenho estudos sobre marketing digital.</p>
                         </div>
                         <div id="randDiv2">
                             <div id="imagem4"></div>
